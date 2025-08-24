@@ -1,0 +1,90 @@
+
+Copyrights and Licenses
+
+詳細は次を参照下さい。
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32p4/COPYRIGHT.html
+
+
+Software Copyrights
+  All original source code in this repository is Copyright (C) 2015-2023 Espressif Systems. This source code is licensed under the Apache License 2.0 as described in the file LICENSE.
+  Additional third party copyrighted code is included under the following licenses.
+  Where source code headers specify Copyright & License information, this information takes precedence over the summaries made here.
+  Some examples use external components which are not Apache licensed, please check the copyright description in each example source code.
+
+
+Firmware Components
+  These third party libraries can be included into the application (firmware) produced by ESP-IDF.
+
+・Newlib is licensed under the BSD License and is Copyright of various parties, as described in COPYING.NEWLIB . If CONFIG_LIBC_PICOLIBC is enabled, see also COPYING.picolibc .
+・Xtensa header files are Copyright (C) 2013 Tensilica Inc and are licensed under the MIT License as reproduced in the individual header files.
+・Original parts of FreeRTOS (components/freertos) are Copyright (C) 2017 Amazon.com, Inc. or its affiliates, and are licensed under the MIT License, as described in license.txt .
+・Original parts of LWIP (components/lwip) are Copyright (C) 2001, 2002 Swedish Institute of Computer Science and are licensed under the BSD License as described in COPYING file .
+・wpa_supplicant, Copyright (C) 2003-2022 Jouni Malinen <j@w1.fi> and contributors and licensed under the BSD License.
+・Fast PBKDF2 , Copyright (C) 2015 Joseph Birr-Pixton and licensed under CC0 Public Domain Dedication License.
+・FreeBSD net80211, Copyright (C) 2004-2008 Sam Leffler, Errno Consulting and licensed under the BSD License.
+・argtable3 argument parsing library, Copyright (C) 1998-2001,2003-2011,2013 Stewart Heitmann and licensed under 3-clause BSD license. argtable3 also includes the following software components. For details, please see argtable3 LICENSE file .
+  ・C Hash Table library, Copyright (C) 2002 Christopher Clark and licensed under 3-clause BSD License.
+  ・The Better String library, Copyright (C) 2014 Paul Hsieh and licensed under 3-clause BSD License.
+  ・TCL library, Copyright the Regents of the University of California, Sun Microsystems, Inc., Scriptics Corporation, ActiveState Corporation and other parties, and licensed under TCL/TK License.
+
+・linenoise line editing library, Copyright (C) 2010-2014 Salvatore Sanfilippo, Copyright (C) 2010-2013 Pieter Noordhuis, licensed under 2-clause BSD License.
+・FatFS library, Copyright (C) 2017 ChaN, is licensed under a BSD-style license .
+・cJSON library, Copyright (C) 2009-2017 Dave Gamble and cJSON contributors, is licensed under MIT License as described in LICENSE file .
+・micro-ecc library, Copyright (C) 2014 Kenneth MacKay, is licensed under 2-clause BSD License.
+・Mbed TLS library, Copyright (C) 2006-2018 ARM Limited, is licensed under Apache License 2.0 as described in LICENSE file .
+・SPIFFS library, Copyright (C) 2013-2017 Peter Andersson, is licensed under MIT License as described in LICENSE file .
+・SD/MMC driver is derived from OpenBSD SD/MMC driver, Copyright (C) 2006 Uwe Stuehler, and is licensed under BSD License.
+・ESP-MQTT Package (contiki-mqtt), Copyright (C) 2014 Stephen Robinson, MQTT-ESP - Tuan PM <tuanpm at live dot com> is licensed under Apache License 2.0 as described in LICENSE file .
+・BLE Mesh is adapted from Zephyr Project, Copyright (C) 2017-2018 Intel Corporation and licensed under Apache License 2.0.
+・mynewt-nimble, Copyright (C) 2015-2018 The Apache Software Foundation, is licensed under Apache License 2.0 as described in LICENSE file .
+・TLSF allocator, Copyright (C) 2006-2016 Matthew Conte, and licensed under the BSD 3-clause license.
+・openthread, Copyright (C) The OpenThread Authors, is licensed under BSD License as described in LICENSE file .
+・UBSAN runtime , Copyright (C) 2016 Linaro Limited and Jiří Zárevúcky, licensed under the BSD 2-clause license.
+・HTTP Parser is based on src/http/ngx_http_parse.c from NGINX copyright Igor Sysoev. Additional changes are licensed under the same terms as NGINX and Joyent, Inc. and other Node contributors. For details please check LICENSE file .
+・SEGGER SystemView target-side library, Copyright (C) 1995-2024 SEGGER Microcontroller GmbH, is licensed under BSD 1-clause license.
+・protobuf-c is Protocol Buffers implementation in C, Copyright (C) 2008-2022 Dave Benson and the protobuf-c authors. For details please check LICENSE file .
+・CMock mock/stub generator for C, Copyright (C) 2007-14 Mike Karlesky, Mark VanderVoord, Greg Williams, is licensed under MIT License as described in LICENSE file .
+・Unity Simple Unit Testing library, Copyright (C) 2007-23 Mike Karlesky, Mark VanderVoord, Greg Williams, is licensed under MIT License as described in LICENSE file .
+
+
+Documentation
+・HTML version of the ESP-IDF Programming Guide uses the Sphinx theme sphinx_idf_theme, which is Copyright (C) 2013-2020 Dave Snider, Read the Docs, Inc. & contributors, and Espressif Systems (Shanghai) CO., LTD. It is based on sphinx_rtd_theme. Both are licensed under MIT License.
+
+
+ROM Source Code Copyrights
+  Espressif SoCs mask ROM hardware includes binaries compiled from portions of the following third party software:
+
+・Newlib , licensed under the BSD License and is Copyright of various parties, as described in COPYING.NEWLIB .
+・Xtensa libhal, Copyright (C) Tensilica Inc and licensed under the MIT License (see below).
+・TinyBasic Plus, Copyright (C) Mike Field & Scott Lawrence and licensed under the MIT License (see below).
+・miniz, by Rich Geldreich - placed into the public domain.
+・TJpgDec, Copyright (C) 2011 ChaN, all right reserved. See below for license.
+・Parts of Zephyr RTOS USB stack:
+  ・DesignWare USB device driver, Copyright (C) 2016 Intel Corporation and licensed under Apache License 2.0.
+  ・Generic USB device driver, Copyright (C) 2006 Bertrik Sikken (bertrik@sikken.nl), 2016 Intel Corporation and licensed under BSD 3-clause license.
+  ・USB descriptors functionality, Copyright (C) 2017 PHYTEC Messtechnik GmbH, 2017-2018 Intel Corporation and licensed under Apache License 2.0.
+  ・USB DFU class driver, Copyright (C) 2015-2016 Intel Corporation, 2017 PHYTEC Messtechnik GmbH and licensed under BSD 3-clause license.
+  ・USB CDC ACM class driver, Copyright (C) 2015-2016 Intel Corporation and licensed under Apache License 2.0.
+
+
+Xtensa libhal MIT License
+Copyright (C) 2003, 2006, 2010 Tensilica Inc.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+TinyBasic Plus MIT License
+Copyright (C) 2012-2013 Mike Field & Scott Lawrence.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+TJpgDec License
+TJpgDec - Tiny JPEG Decompressor R0.01 (C) 2011 ChaN, is a generic JPEG decompressor module for tiny embedded systems.This is a free software that opened for education, research and commercial developments under license policy of following terms:
+Copyright (C) 2011 ChaN, all right reserved.
+The TJpgDec module is a free software and there is NO WARRANTY.
+No restriction on use. You can use, modify and redistribute it for personal, non-profit or commercial products UNDER YOUR RESPONSIBILITY.
+Redistributions of source code must retain the above copyright notice.
+
