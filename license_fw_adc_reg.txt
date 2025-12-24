@@ -1,0 +1,90 @@
+                               Licenses and copyrights for project FW_ADC_REG                               
++----------------------------------------------------------------------------------------------------------+
+| License concluded | Apache-2.0 AND BSD-2-Clause-Views AND BSD-3-Clause AND CC0-1.0 AND MIT AND Unlicense |
+| License           | Unlicense                                                                            |
+| License           | CC0-1.0                                                                              |
+| License           | Unlicense OR CC0-1.0                                                                 |
+| License           | Apache-2.0                                                                           |
+| License           | BSD-3-Clause                                                                         |
+| License           | MIT                                                                                  |
+| License           | BSD-2-Clause-FreeBSD AND Apache-2.0                                                  |
+| Copyright         | 2020 Francesco Giancane <francesco.giancane@accenture.com>                           |
+| Copyright         | 2016-2023 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2015-2021 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2021 Espressif Systems (Shanghai) CO LTD                                             |
+| Copyright         | 2019-2021 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2020 Cambridge Consultants Ltd                                                       |
+| Copyright         | 2015,2016 Intel Corporation                                                          |
+| Copyright         | 2016 Intel Corporation                                                               |
+| Copyright         | 1994-2009 Red Hat, Inc.                                                              |
+| Copyright         | 2019 Ha Thach (tinyusb.org),                                                         |
+| Copyright         | 2001 Swedish Institute of Computer Science                                           |
+| Copyright         | 2020-2021 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2018-2023 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2016-2025 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2018-2021 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2016-2024 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2003-2005, Jouni Malinen <j@w1.fi>                                                   |
+| Copyright         | 2022-2024 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2023-2025 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2019-2023 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2017-2023 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2010-2025 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2001-2004 Swedish Institute of Computer Science                                      |
+| Copyright         | 2015, 2016 Intel Corporation.                                                        |
+| Copyright         | 2017-2022 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2015-2023 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2018-2025 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2020-2025 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2010-2022 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2015-2016 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2023 Espressif Systems (Shanghai) CO LTD                                             |
+| Copyright         | 2017 PHYTEC Messtechnik GmbH                                                         |
+| Copyright         | 2019-2025 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2021-2022 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2019-2024 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2020-2022 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2021 Amazon.com, Inc. or its affiliates                                              |
+| Copyright         | 2017-2021 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2022-2025 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2020 Amazon.com, Inc. or its affiliates                                              |
+| Copyright         | 2024 Matthew Conte                                                                   |
+| Copyright         | 2001-2003 Swedish Institute of Computer Science                                      |
+| Copyright         | 2018-2022 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2020 Diego Elio Pettenò                                                             |
+| Copyright         | 2010-2023 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2015-2024 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2017-2025 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2020-2024 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2015-2022 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2006-2016 Matthew Conte                                                              |
+| Copyright         | 2016-2021 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2017-2024 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2016-2022 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2015-2019 Cadence Design Systems, Inc.                                               |
+| Copyright         | 2025 Espressif Systems (Shanghai) CO LTD                                             |
+| Copyright         | 2023-2024 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2021 Vladimir Chistyakov                                                             |
+| Copyright         | 2020-2023 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2006 Bertrik Sikken (bertrik@sikken.nl)                                              |
+| Copyright         | 2021-2023 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2024 Espressif Systems (Shanghai) CO LTD                                             |
+| Copyright         | 2010-2024 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2013-2021 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2010-2021 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2013-2022 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2022 Espressif Systems (Shanghai) CO LTD                                             |
+| Copyright         | 2019-2022 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2021-2024 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2015-2019 Cadence Design Systems, Inc                                                |
+| Copyright         | 2024-2025 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2022-2023 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2015-2025 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2013-2024 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2017 SiFive Inc.                                                                     |
+| Copyright         | 2020 Cambridge Consultants Ltd.                                                      |
+| Copyright         | 2021-2025 Espressif Systems (Shanghai) CO LTD                                        |
+| Copyright         | 2018-2024 Espressif Systems (Shanghai) CO LTD                                        |
++----------------------------------------------------------------------------------------------------------+
+
+

@@ -3,4 +3,4 @@
 cmake_minimum_required(VERSION 3.16)
 
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
-project(AIMEZ_EVKSOFT_ESP32P4_v01)
+project(FW_ADC_REG)
